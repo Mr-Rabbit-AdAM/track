@@ -53,9 +53,9 @@ echo -e "\e[1;32m Tager IP addres #==> :: $ip"
 echo ""
 echo -e "\e[1;32m Tager latitude #==> :: $lat"
 echo ""
-echo -e "\e[1;32m Tager longitude #==> :: $lot
+echo -e "\e[1;32m Tager longitude #==> :: $lot"
 echo ""
-echo " Google map #==>   ::  https://www.google.com/maps/place/$lat$lon "
+echo "Google map #==> ::  https://www.google.com/maps/place/$lat$lon "
 rm pyae.txt 
 fi 
 done
