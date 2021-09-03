@@ -49,9 +49,9 @@ echo ""
 ip=$(grep -o 'ip:.*' pyae.txt | cut -d " " -f2)
 lat=$(grep -o 'lat:.*' pyae.txt | cut -d " " -f2)
 lot=$(grep -o 'lon:.*' pyae.txt | cut -d " " -f2)
-echo -e "\e[1;32m Tager IP addres #==> :: $ip"
-echo ""
 echo -e "\e[1;31m user Information "
+echo ""
+echo -e "\e[1;32m Tager IP addres #==> :: $ip"
 echo ""
 echo -e "\e[1;32m Tager latitude #==> :: $lat"
 echo ""
