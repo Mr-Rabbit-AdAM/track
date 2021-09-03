@@ -57,7 +57,7 @@ echo -e "\e[1;32m Tager latitude #==> :: $lat"
 echo ""
 echo -e "\e[1;32m Tager longitude #==> :: $lot"
 echo ""
-
+echo -e "\e[1;32m Google map #==> ::  https://www.google.com/maps/place/$lat$lot"
 rm pyae.txt 
 fi 
 done
