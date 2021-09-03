@@ -20,7 +20,7 @@ echo -e "\e[1;36m
 
 "
 echo ""
-echo -e "\e[5;32m      ( Covid 19 phishing Tacker tool  )"; sleep 1
+echo -e "\e[5;32m      ( Covid 19 phishing Track tool  )"; sleep 1
 echo ""
 echo -e "\e[1;32m  ________________ Code By Ad A M ________________ ";sleep 1
 echo ""
